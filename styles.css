@@ -1,0 +1,24 @@
+.ingredients{
+    background-color: aliceblue;
+    color: orange;
+}
+p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+}
+#main-title{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+ol{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+h1{
+    background-color: green;
+}
+.ingredients .three{
+    color: rgb(19, 23, 226);
+}
